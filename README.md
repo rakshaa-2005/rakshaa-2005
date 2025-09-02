@@ -9,7 +9,7 @@ Dedicated to applying technical expertise and analytical skills to develop **eff
 
 ## 🔹 About Me  
 - 🎓 Pursuing *B.E. in Artificial Intelligence and Machine Learning* at Canara Engineering College, Mangalore (Graduating 2026)  
-- 📊 CGPA: **7.62 **  
+- 📊 CGPA: 7.62  
 - 🌱 Passionate about learning and exploring new technologies to grow as a developer  
 - 🎯 Aspiring to contribute as a *Software Engineer* by solving real-world problems with technology  
 - ⚡ Enjoy working on projects that blend *creativity, innovation, and practical usability*  
