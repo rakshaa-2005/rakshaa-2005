@@ -1,5 +1,5 @@
 # Hi, I'm Rakshitha 👋  
-
+---
 Aspiring Software Engineer with a strong foundation in programming, web development, and problem-solving. Dedicated to applying technical expertise and analytical skills to develop efficient, scalable, and user-focused solutions.
 ---
 
