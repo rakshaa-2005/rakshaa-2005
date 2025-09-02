@@ -57,9 +57,9 @@ I love solving problems, building innovative projects, and continuously explorin
 ---
 
 ## 📊 GitHub Stats  
-![Rakshitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
+![Rakshitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakshaa-2005&show_icons=true&theme=radical)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rakshaa-2005&layout=compact&theme=radical)  
 
 ---
 
