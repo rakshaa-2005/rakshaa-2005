@@ -1,9 +1,6 @@
-# Hi, I'm Rakshitha Sudhakara 👋  
+# Hi, I'm Rakshitha 👋  
 
-Motivated engineering student specializing in software and web development with strong problem-solving skills.  
-Committed to continuous learning and delivering impactful, high-quality solutions.  
-I love solving problems, building innovative projects, and continuously exploring new technologies.  
-
+Aspiring Software Engineer with a strong foundation in programming, web development, and problem-solving. Dedicated to applying technical expertise and analytical skills to develop efficient, scalable, and user-focused solutions.
 ---
 
 ## 🔹 About Me  
