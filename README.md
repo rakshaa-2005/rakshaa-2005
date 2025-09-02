@@ -68,5 +68,6 @@ Dedicated to applying technical expertise and analytical skills to develop **eff
 💼 [LinkedIn](https://www.linkedin.com/in/rakshitha-sudhakara)  
 📧 [rakshitha02245@gmail.com](mailto:rakshitha02245@gmail.com)  
 📱 +91-9591598772  
+🔗 [Portfolio](https://portfolio-1-omega-neon.vercel.app/)  
 
 ---
